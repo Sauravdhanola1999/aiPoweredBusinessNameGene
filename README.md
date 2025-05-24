@@ -9,7 +9,7 @@
   <h3 align="center">🤖 AI-Powered Business Name Generator</h3>
 
    <div align="center">
-    Build AI-powered business name generator using   <b>Next.js, Shadcn UI, TailwindCSS, Gemini.</b> Watch step-by-step video tutorial on <a href="https://www.linkedin.com/in/saurav-singh-b71378229/" target="_blank"><b>Saurav Singh</b></a>
+    Build AI-powered business name generator using   <b>Next.js, Shadcn UI, TailwindCSS, Gemini.</b> <a href="https://www.linkedin.com/in/saurav-singh-b71378229/" target="_blank"><b>Saurav Singh</b></a>
     </div>
 
 </div>
